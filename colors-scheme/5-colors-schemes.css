@@ -1,0 +1,63 @@
+/*! Websites Kit | MIT License | github.com/itsosmx/Osmx-Websites-Kit */
+
+
+/* Grosse */
+
+:root {
+    --A-5-Grosse: #05386B;
+    --B-5-Grosse: #379683;
+    --C-5-Grosse: #5CDB95;
+    --D-5-Grosse: #8EE4AF;
+    --E-5-Grosse: #EDF5E1;
+}
+
+
+/* Colorful */
+
+:root {
+    --A-5-Colorful: #E27D60;
+    --B-5-Colorful: #84cdca;
+    --C-5-Colorful: #e8a87c;
+    --D-5-Colorful: #c38d9d;
+    --E-5-Colorful: #40b3a2;
+}
+
+/* Bright */
+
+:root {
+    --A-5-Bright: #242482;
+    --B-5-Bright: #553D67;
+    --C-5-Bright: #F64C72;
+    --D-5-Bright: #99738E;
+    --E-5-Bright: #2F2FA2;
+}
+
+/* Natural */
+
+:root {
+    --A-5-Natural: #8D8741;
+    --B-5-Natural: #659DBA;
+    --C-5-Natural: #DAAD86;
+    --D-5-Natural: #BC988A;
+    --E-5-Natural: #FBEEC1;
+}
+
+/* DeepPurples */
+
+:root {
+    --A-5-DeepPurples: #0C0032;
+    --B-5-DeepPurples: #190061;
+    --C-5-DeepPurples: #240090;
+    --D-5-DeepPurples: #3500D3;
+    --E-5-DeepPurples: #282828;
+}
+
+/* Contemporary */
+
+:root {
+    --A-5-Contemporary: #1A1A1D;
+    --B-5-Contemporary: #4E4E50;
+    --C-5-Contemporary: #6F2232;
+    --D-5-Contemporary: #950740;
+    --E-5-Contemporary: #C3073F;
+}

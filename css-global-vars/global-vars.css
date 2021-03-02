@@ -1,0 +1,17 @@
+/*! Websites Kit | MIT License | github.com/itsosmx/Osmx-Websites-Kit */
+
+a {
+    text-decoration: none;
+    background-color: transparent;
+    color: transparent;
+}
+
+ul {
+    list-style: none;
+}
+
+button {
+    border: none;
+    outline: none;
+}
+
