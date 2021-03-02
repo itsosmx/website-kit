@@ -1,0 +1,91 @@
+/*! Websites Kit v8.0.1 | MIT License | github.com/OsamaHu1277/Osmx-Websites-Kit */
+
+/* Compote */
+
+:root {
+    --A-Compote: #934A5F;
+    --B-Compote: #57648C;
+    --C-Compote: #C2B4D6;
+    --D-Compote: #E5E5E5;
+}
+
+/* Scholar */
+
+:root {
+    --A-Scholar: #333D51;
+    --B-Scholar: #D3AC2B;
+    --C-Scholar: #CBD0D8;
+    --D-Scholar: #F4F3EA;
+}
+
+/* Harbor */
+
+:root {
+    --A-Harbor: #354649;
+    --B-Harbor: #6C7A89;
+    --C-Harbor: #A3C6C4;
+    --D-Harbor: #E0E7E9;
+}
+
+/* Gecko */
+
+:root {
+    --A-Gecko: #9F4298;
+    --B-Gecko: #CFDB31;
+    --C-Gecko: #D1AFD3;
+    --D-Gecko: #E6E7E8;
+}
+
+/* Brisk */
+
+:root {
+    --A-Brisk: #4C4556;
+    --B-Brisk: #872642;
+    --C-Brisk: #F6C026;
+    --D-Brisk: #A0D3F9;
+}
+
+/* Pebble */
+
+:root {
+    --A-Pebble: #433E49;
+    --B-Pebble: #928490;
+    --C-Pebble: #DBC1AD;
+    --D-Pebble: #F3E8EB;
+}
+
+/* Condiments */
+
+:root {
+    --A-Condiments: #E2495B;
+    --B-Condiments: #C4BA3B;
+    --C-Condiments: #F4ED6E;
+    --D-Condiments: #FFFEE6;
+}
+
+/* Harvest */
+
+:root {
+    --A-Harvest: #8E7C68;
+    --B-Harvest: #ED7458;
+    --C-Harvest: #FFDC9F;
+    --D-Harvest: #DDC9BC;
+}
+
+/* Uncorked */
+
+:root {
+    --A-Uncorked: #7F056E;
+    --B-Uncorked: #C09247;
+    --C-Uncorked: #CAB387;
+    --D-Uncorked: #F2EBE0;
+}
+
+/* Scuba */
+
+:root {
+    --A-Scuba: #0C4A60;
+    --B-Scuba: #EF6C33;
+    --C-Scuba: #ABDFF1;
+    --D-Scuba: #E1DDDB;
+}
