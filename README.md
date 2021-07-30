@@ -1,9 +1,6 @@
 ## Osmx Websites Kit
 `All you need to create a high quality website`
 
-## Download Package
-`git clone https://github.com/itsosmx/Osmx-Websites-Kit.git`
-
 ## Package Includes 
  - Bootstrap v5.0.2 `/bootstrap/`
  - Html Page Reset `/reset/`
