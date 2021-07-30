@@ -2,10 +2,10 @@
 `All you need to create a high quality website`
 
 ## Package Includes 
- - Bootstrap v5.0.2
- - Html Page Reset
- - Colors Scheme
- - FontAwesome v5.15.3
+ - Bootstrap v5.0.2 `/bootstrap/`
+ - Html Page Reset `/reset/`
+ - Colors Scheme `/colors/`
+ - FontAwesome v5.15.3 `/fontawesome/`
 
 
 ## Bootstrap Files includes
