@@ -32,6 +32,7 @@
 |`bootstrap-reboot.rtl.min.css`| | | | |
 
 - JS files
+
 |JS files|	Popper|
 |:----| :----: |
 |`bootstrap.bundle.js`|Included|
