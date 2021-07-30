@@ -13,18 +13,21 @@
 |CSS files                      |Layout   |Content  |Components|Utilities |
 | -------------------------------- | ---------- | ------------ | ---------------- | ----------- |
 |`bootstrap.css`            |Included| Included| Included     |Included|
-|`bootstrap.rtl.css`       |   |   |   |   |
-|`bootstrap.min.css`     |   |   |   |   |
-|`bootstrap.rtl.min.css`|   |   |   |   |
-|`bootstrap-grid.css`|Only grid system|-|-|	Only flex utilities|
+|`bootstrap.rtl.css`       |   |   | | |
+|`bootstrap.min.css`     |   |   | | |
+|`bootstrap.rtl.min.css`|   |   | | |
+| -------------------------------- | ---------- | ------------ | ---------------- | ----------- |
+|`bootstrap-grid.css`|Only grid system|-|-|Only flex utilities|
 |`bootstrap-grid.rtl.css`| | | | |
 |`bootstrap-grid.min.css`| | | | |
 |`bootstrap-grid.rtl.min.css`| | | | |
-|`bootstrap-utilities.css`| - | - | - |Included|
+| -------------------------------- | ---------- | ------------ | ---------------- | ----------- |
+|`bootstrap-utilities.css`|-|-|-|Included|
 |`bootstrap-utilities.rtl.css`| | | | |
 |`bootstrap-utilities.min.css`| | | | |
 |`bootstrap-utilities.rtl.min.css`| | | | |
-|`bootstrap-reboot.css`| - |Only Reboot| - | - |
+| -------------------------------- | ---------- | ------------ | ---------------- | ----------- |
+|`bootstrap-reboot.css`|-|Only Reboot|-|-|
 |`bootstrap-reboot.rtl.css`| | | | |
 |`bootstrap-reboot.min.css`| | | | |
 |`bootstrap-reboot.rtl.min.css`| | | | |
