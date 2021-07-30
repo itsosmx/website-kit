@@ -9,9 +9,10 @@
  - FontAwesome v5.15.3
 
 
-## Bootstrap Css Files includes
+## Bootstrap Files includes
+- CSS files
 |CSS files                      |Layout   |Content  |Components|Utilities |
-| :----: | :----: | :----: | :----: | :----: |
+| :---- | :----: | :----: | :----: | :----: |
 |`bootstrap.css`            |Included| Included| Included     |Included|
 |`bootstrap.rtl.css`       |   |   | | |
 |`bootstrap.min.css`     |   |   | | |
@@ -28,3 +29,10 @@
 |`bootstrap-reboot.rtl.css`| | | | |
 |`bootstrap-reboot.min.css`| | | | |
 |`bootstrap-reboot.rtl.min.css`| | | | |
+- JS files
+|JS files|	Popper|
+|:----| :----: |
+|`bootstrap.bundle.js`|Included|
+|`bootstrap.bundle.min.js`| |
+|`bootstrap.js`|-|
+|`bootstrap.min.js`| |
