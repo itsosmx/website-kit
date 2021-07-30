@@ -11,6 +11,7 @@
 
 ## Bootstrap Files includes
 - CSS files
+
 |CSS files                      |Layout   |Content  |Components|Utilities |
 | :---- | :----: | :----: | :----: | :----: |
 |`bootstrap.css`            |Included| Included| Included     |Included|
@@ -29,6 +30,7 @@
 |`bootstrap-reboot.rtl.css`| | | | |
 |`bootstrap-reboot.min.css`| | | | |
 |`bootstrap-reboot.rtl.min.css`| | | | |
+
 - JS files
 |JS files|	Popper|
 |:----| :----: |
